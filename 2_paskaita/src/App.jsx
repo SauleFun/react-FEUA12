@@ -1,4 +1,10 @@
 import ClassWelcome from "./components/ClassWelcome";
+import Welcome from "./components/Welcome";
+import ArrowFunctionWelcome from "./components/ArrowFunctionWelcome";
+import ArrowFunctionWelcomeV2 from "./components/ArrowFunctionWelcomeV2";
+import WelcomeDestructed from "./components/WelcomeDestructed";
+import Card from "./components/Card";
+import "./App.css";
 
 function App() {
   return (
