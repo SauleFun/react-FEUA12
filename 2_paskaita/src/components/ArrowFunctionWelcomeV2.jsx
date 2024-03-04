@@ -3,6 +3,7 @@ const ArrowFunctionWelcomeV2 = (props) => (
       <h1>Hello {props.name}!</h1>
       <h3>How are you?</h3>
     </div>
+    
   );
   
   export default ArrowFunctionWelcomeV2;
