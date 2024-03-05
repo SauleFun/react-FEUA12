@@ -1,0 +1,12 @@
+
+  h1, h2 {
+    margin: 0;
+    color: white;
+   
+  }
+
+  .blue {
+    background: rgb(42, 65, 165);
+    padding: 2rem;
+
+  }
