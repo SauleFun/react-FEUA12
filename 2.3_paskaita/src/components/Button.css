@@ -1,0 +1,13 @@
+.btn-wrapper {
+    text-align: center;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color:rgb(47, 154, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
