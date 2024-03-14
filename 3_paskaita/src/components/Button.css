@@ -1,0 +1,11 @@
+.button {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(8, 141, 37);
+    color: white;
+    border-radius: 5px;
+}
+
+.secondary {
+    background-color: rgb(88, 53, 241);
+}
