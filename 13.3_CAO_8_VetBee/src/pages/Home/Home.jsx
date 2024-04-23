@@ -1,9 +1,16 @@
+import Footer from "../../layouts/footer/Footer";
+import Header from "../../layouts/header/Header";
+
 const Home = () => {
-    return 
-    <div>
-        <h1>Welcome !!!</h1>
-        <h2>Explore Our Veterinary Services</h2>
-    </div>;
+    return (
+        <main>
+            <Header></Header>
+            <div className="content">
+                home
+            </div>
+            <Footer></Footer>
+        </main>
+    );
   };
   
   export default Home;

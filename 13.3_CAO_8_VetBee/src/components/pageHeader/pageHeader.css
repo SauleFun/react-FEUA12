@@ -1,0 +1,10 @@
+.page-header-wrap {
+    margin: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-header-label {
+    font-weight: 400;
+}
