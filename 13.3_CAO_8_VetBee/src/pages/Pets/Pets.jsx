@@ -13,7 +13,7 @@ const Pets = () => {
         {
             name: 'Levis',
             date: '2021-01-01',
-            email: 'modestas@lexita.lt',
+            email: 'Jurgita@pet.lt',
             cards: [
                 {label: 'View logs'},
                 {label: 'Delete'},
@@ -22,7 +22,7 @@ const Pets = () => {
         {
             name: 'Levis',
             date: '2021-01-01',
-            email: 'modestas@lexita.lt',
+            email: 'Jurgita@pet.lt',
             cards: [
                 {label: 'View logs'},
                 {label: 'Delete'},
